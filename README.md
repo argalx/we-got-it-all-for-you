@@ -1,5 +1,5 @@
 # WE GOT IT ALL FOR YOU (StackTrek Design a Database Activity)
-StackTrek - Design a Database Activity (The Department)
+StackTrek - Design a Database Activity (WE GOT IT ALL FOR YOU)
 
 # Built With
 - Python3
@@ -10,4 +10,4 @@ StackTrek - Design a Database Activity (The Department)
 
 # Instructions
 1. Uncomment "insertData()" function to load dummy data.![Screenshot 2023-12-07 153038](https://github.com/argalx/TheDepartment/assets/31496662/009c2307-fa71-4be5-9f2d-0b852e3dc949)
-2. "displayData()" function is used to display employee details from SQLite database file.![Screenshot 2023-12-07 153131](https://github.com/argalx/TheDepartment/assets/31496662/8728c0c6-61de-4be5-b9f5-81a79c9ddcb1)
+2. "displayData()" function is used to display invoice details from SQLite database file.![Screenshot 2023-12-07 153131](https://github.com/argalx/TheDepartment/assets/31496662/8728c0c6-61de-4be5-b9f5-81a79c9ddcb1)

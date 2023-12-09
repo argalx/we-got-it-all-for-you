@@ -173,3 +173,6 @@ def displayData():
 
 # Display Data Function
 displayData()
+
+# Close Connection
+conn.close()
